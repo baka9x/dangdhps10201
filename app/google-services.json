@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925680084713",
+    "firebase_url": "https://dangdhps10201.firebaseio.com",
+    "project_id": "dangdhps10201",
+    "storage_bucket": "dangdhps10201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925680084713:android:72dcead2b636d3fabc7278",
+        "android_client_info": {
+          "package_name": "com.danghai.dangdhps10201"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925680084713-56inl74kfqdpe4dmjbg5kojma4of0nnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danghai.dangdhps10201",
+            "certificate_hash": "e99b6af2ad1da5c31bd39ddb5fcb790f4480b1a9"
+          }
+        },
+        {
+          "client_id": "925680084713-ov60r3c6dfnl96aofvnngqohmfln2qmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLyu4pm_XOzQxhXMXMaYrmU0E_38WHI-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925680084713-ov60r3c6dfnl96aofvnngqohmfln2qmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

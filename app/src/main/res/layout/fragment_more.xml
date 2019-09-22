@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.MoreFragment"
+    android:background="@color/cardview_dark_background">
+<LinearLayout
+    android:layout_marginEnd="20dp"
+    android:orientation="vertical"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentEnd="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="100dp"
+    >
+    <TextView
+        android:textColor="#fff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Xin chào,"
+        android:textSize="14sp"/>
+    <TextView
+        android:id="@+id/more_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tên người dùng"
+        android:textColor="#BB9406"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:textColor="#fff"
+        android:id="@+id/more_change_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đổi mật khẩu"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:textColor="#fff"
+        android:id="@+id/more_category_manager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quản lý thể loại sách"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:textColor="#fff"
+        android:id="@+id/more_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đăng xuất"/>
+</LinearLayout>
+
+
+</RelativeLayout>

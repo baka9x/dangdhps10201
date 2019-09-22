@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_book"
+        android:icon="@drawable/ic_nav_book"
+        android:title="Sách" />
+
+    <item
+        android:id="@+id/nav_bill"
+        android:icon="@drawable/ic_nav_bill"
+        android:title="Hóa đơn" />
+
+    <item
+        android:id="@+id/nav_revenue"
+        android:icon="@drawable/ic_nav_revenue"
+        android:title="Doanh số" />
+    <item
+        android:id="@+id/nav_bestseller"
+        android:icon="@drawable/ic_nav_bestseller"
+        android:title="Top sách" />
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_nav_more"
+        android:title="Thêm" />
+
+</menu>
